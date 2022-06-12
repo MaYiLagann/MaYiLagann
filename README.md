@@ -10,12 +10,14 @@ Hi, I'm MaYiLagann!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+%26+Web+Developer;Always%20learning%20new%20things%2E&font=Fira%20Code&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="./lofi.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="180" style="margin-top: 3px; margin-right: 5px;"/>
 <hr>
+
+<img align="left" src="./lofi.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="180"/>
 
 ```
 MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
--------------------------
+--------------------------------------------------------
+
 💻 I am a Full Stack Developer for Game and Web
 📚 I am a student at Hanyang Cyber University
 📝 I am enjoying in develop game contents
