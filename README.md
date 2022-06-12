@@ -120,7 +120,7 @@ MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
 
 |                                                                                                      MaYiLagann's Stars                                                                                                       |                                                           Top Languages                                                           |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=MaYiLagann&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=MaYiLagann&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaYiLagann&langs_count=8&theme=algolia&layout=compact) |
 
 ------
 Credits: [MaYiLagann](https://github.com/MaYiLagann)
