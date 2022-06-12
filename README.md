@@ -16,12 +16,12 @@ Hi, I'm MaYiLagann!
 
 ```
 MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
-
 --------------------------------------------------------
 
-💻 I am a Full Stack Developer for Game and Web
-📚 I am a student at Hanyang Cyber University
-📝 I am enjoying in develop game contents
+💻 I'm a Full Stack Developer for Game and Web
+🚀 I'm working on "Studio Zoo"
+📚 I'm a student at "Hanyang Cyber University"
+📝 I'm enjoying in develop game contents
 🌟 Main languages: C-Sharp, TypeScript
 🎮 Playing Arma3, Escape from Tarkov, WarThunder and Valorant
 ```
