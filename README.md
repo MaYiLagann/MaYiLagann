@@ -24,7 +24,6 @@ MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
 🌟 Main languages: C-Sharp, TypeScript
 🎮 Playing Arma3, Escape from Tarkov, WarThunder and Valorant
 
-
 ```
 
 <hr>
