@@ -26,7 +26,7 @@ MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
 🎮 Playing Arma3, Escape from Tarkov, WarThunder and Valorant
 ```
 
-<hr style="margin-top: 0px;">
+<hr>
 
 ## 🛠️ My Favorite Tools
 
