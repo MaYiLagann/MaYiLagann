@@ -12,10 +12,11 @@ Hi, I'm MaYiLagann!
 
 <hr>
 
-<img align="left" src="./lofi.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="180"/>
+<img align="left" src="./lofi.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="185"/>
 
 ```
 MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
+
 --------------------------------------------------------
 
 💻 I am a Full Stack Developer for Game and Web
@@ -25,7 +26,7 @@ MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
 🎮 Playing Arma3, Escape from Tarkov, WarThunder and Valorant
 ```
 
-<hr>
+<hr style="margin-top: 0px;">
 
 ## 🛠️ My Favorite Tools
 
