@@ -92,8 +92,6 @@ MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img alt="Cent OS" src="https://img.shields.io/badge/Cent%20OS-002260?logo=centos&logoColor=F0F0F0">
-    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white">
-    <img alt="Rad Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white">
 
 </p>
 
