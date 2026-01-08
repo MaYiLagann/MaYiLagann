@@ -15,15 +15,13 @@ Hi, I'm MaYiLagann!
 <img align="left" src="./lofi.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="185"/>
 
 ```
-MaYiLagann@github | lsm86245@gmail.com | MaYiLagann#9999
+MaYiLagann@github | lsm86245@gmail.com
 --------------------------------------------------------
 
 💻 I'm a Full Stack Developer for Game and Web
-🚀 I'm working on "Studio Zoo"
 📚 I'm a student at "Hanyang Cyber University"
 📝 I'm enjoying in develop game contents
 🌟 Main languages: C-Sharp, TypeScript
-🎮 Playing Arma3, Escape from Tarkov, WarThunder and Valorant
 ```
 
 <hr>
