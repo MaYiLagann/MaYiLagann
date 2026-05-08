@@ -2,7 +2,6 @@
 Hi, I'm MaYiLagann!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=MaYiLagann&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="MaYiLagann" />-->
- <img src="https://gpvc.arturio.dev/MaYiLagann" alt="Profile views" align='right'/> <a href="https://github.com/MaYiLagann/MaYiLagann/"> </a>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -18,9 +17,9 @@ Hi, I'm MaYiLagann!
 MaYiLagann@github | lsm86245@gmail.com
 --------------------------------------------------------
 
-💻 I'm a Full Stack Developer for Game and Web
-📚 I'm a student at "Hanyang Cyber University"
-📝 I'm enjoying in develop game contents
+💻 Full Stack Developer for Game and Web
+📚 B.S. in Computer Science, Hanyang Cyber University
+📝 Enjoying in develop game contents
 🌟 Main languages: C-Sharp, TypeScript
 ```
 
@@ -96,34 +95,9 @@ MaYiLagann@github | lsm86245@gmail.com
 
 </p>
 
-### 🌠 Social
-
-<p>
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
-    <img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white">
-    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white">
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white">
-
-</p>
-
-## GitHub Stats
-
-|                                                                     MaYiLagann's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![MaYiLagann's github graph](https://activity-graph.herokuapp.com/graph?username=MaYiLagann&theme=react-dark&hide_border=true&area=true) |
-| ![MaYiLagann's github stats](https://github-readme-stats.vercel.app/api?username=MaYiLagann&show_icons=true&theme=algolia)              |
-| ![MaYiLagann's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MaYiLagann&theme=algolia)                    |
-
-|                                                                                                      MaYiLagann's Stars                                                                                                       |                                                           Top Languages                                                           |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=MaYiLagann&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaYiLagann&langs_count=8&theme=algolia&layout=compact) |
-
 ------
 Credits: [MaYiLagann](https://github.com/MaYiLagann)
 
-Last Edited On: 2026-01-08
+Last Edited On: 2026-05-08
 
 Profile Readme template from: [I-am-vishalmaurya.md](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/I-am-vishalmaurya.md)
