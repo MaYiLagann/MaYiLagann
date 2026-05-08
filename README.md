@@ -75,11 +75,6 @@ MaYiLagann@github | lsm86245@gmail.com
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?logo=GoogleChrome&logoColor=white">
-    <br>
-    <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
-    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white">
-    <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white">
-    <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white">
     <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
 
 </p>
